@@ -34,10 +34,10 @@
 
 <div id="socials">
   <section class="socials">
-    <img class="social_text" src="x" alt="logo" />
-  <img class="social_text" src="x" alt="facebook" />
-    <img class="social_text"  src="x" alt="instagram" />
-    <img class="social_text" src="x" alt="codepen" />
+    <img class="social_text" src="brittany_castillo/Branding.jpg" alt="logo" />
+  <img class="social_text" src="brittany_castillo/images-for--facebook-icon-png-27.png" alt="facebook" />
+    <img class="social_text"  src="brittany_castillo/instagram_new-512.png" alt="instagram" />
+    <img class="social_text" src="brittany_castillo/Button-Fill-White-Large.png" alt="codepen" />
     
     </section>
 </div>
