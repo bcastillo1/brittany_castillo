@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Brittany Castillo</title>
+  <link rel="stylesheet" href="css/main.css" rel="favs.html" rel="intro.html"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Pacifico|Roboto" rel="stylesheet">
+</head>
+  <body>
+    <img id="main" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1183172/halfnhalf.jpg" alt="Self-image" />
+
+<div id="main_nav">
+  <a href="favs.html"id="favorite">Favorites</a>
+  <section class="triangle" id="triangle-bottomleft"></section>
+  <section class="triangle" id="triangle-bottomright"></section>
+  <a href="intro.html" id="about_me">About Me</a>
+</div>
+<div>
+  <section class="arrow"></section>
+  <section class="top"></section>
+  <section class="bottom"></section>
+  <section class="arrow_two"></section>
+  <section class="top_two"></section>
+  <section class="bottom_two"></section>
+  
+  <section class="arrow_two top_two bottom_two"></section>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div id="socials">
+  <section class="socials">
+    <img class="social_text" src="x" alt="logo" />
+  <img class="social_text" src="x" alt="facebook" />
+    <img class="social_text"  src="x" alt="instagram" />
+    <img class="social_text" src="x" alt="codepen" />
+    
+    </section>
+</div>
+    </body>
